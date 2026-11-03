@@ -1,0 +1,44 @@
+{
+  "headline": "Biomedical Engineer | MedTech R&D | Medical Devices | Sensors & Instrumentation | Signal Processing | Prototyping",
+  "education": [
+    "Master's degree in Machine Learning Applied to Healthcare, Universidad Carlos III de Madrid (in progress)",
+    "Biomedical Engineering, Universidad Autónoma de Madrid (completed)"
+  ],
+  "skills": [
+    "Python",
+    "MATLAB",
+    "Machine Learning",
+    "Deep Learning",
+    "Statistical Signal Processing",
+    "Biomedical Signal Processing",
+    "Sensor Integration",
+    "Biomedical Instrumentation",
+    "Experimental Validation",
+    "Medical Device Prototyping",
+    "PyTorch",
+    "TensorFlow",
+    "Keras",
+    "Scikit-learn",
+    "NumPy",
+    "Medical Imaging",
+    "MONAI",
+    "DICOM",
+    "3D Slicer",
+    "Biomedical Robotics"
+  ],
+  "projects": [
+    "Development and experimental evaluation of a soft hip exoskeleton",
+    "Sensor integration and biomedical signal acquisition",
+    "Python/MATLAB signal processing and experimental validation",
+    "Medical imaging AI learning projects involving segmentation, DICOM, PyTorch, and MONAI"
+  ],
+  "personal": {
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "phone": "",
+    "city": "",
+    "linkedin_url": "",
+    "website_url": ""
+  }
+}

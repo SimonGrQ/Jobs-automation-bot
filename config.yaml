@@ -1,0 +1,30 @@
+database_path: data/jobbot.sqlite3
+profile_path: profile.json
+reports_dir: reports
+logs_dir: logs
+request_timeout_seconds: 20
+minimum_score: 1
+greenhouse_boards:
+  - flatironhealth
+  - omadahealth
+  - modernhealth
+  - healthverity
+  - thoughtworks
+  - phdata
+lever_sites:
+  - bounteous
+scoring:
+  keyword_weights:
+    biomedical engineering: 5
+    medical device: 5
+    medtech: 5
+    healthcare ai: 5
+    medical imaging: 5
+    health data science: 4
+    machine learning: 3
+    biomedical instrumentation: 4
+    signal processing: 4
+    biomedical robotics: 4
+    digital health: 3
+    python: 1
+  senior_experience_penalty: 3
